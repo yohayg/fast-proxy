@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/fastify/fast-proxy",
   "devDependencies": {
-    "0http": "^2.2.2",
+    "0http": "^2.2.3",
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
     "fastify": "^2.12.0",
